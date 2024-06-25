@@ -23,7 +23,7 @@ body {
 }
 
 .menu_section {
-  background: url("./images/sample_menu_bg.jpg") no-repeat bottom;
+  background: url("../images/sample_menu_bg.jpg") no-repeat bottom;
   background-attachment: fixed;
 }
 
