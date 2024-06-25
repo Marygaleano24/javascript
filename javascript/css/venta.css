@@ -133,7 +133,7 @@ body {
 }
 
 .sec_inner {
-  background-image: url('./images/sample_menu_bg.jpg');
+  background-image: url('../images/sample_menu_bg.jpg');
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
